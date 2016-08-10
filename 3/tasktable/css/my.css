@@ -1,0 +1,108 @@
+body{
+	background: url(../img/my_bg1.png);
+	background-size: cover;
+}
+.title{
+	height: 25px;
+	width: 100%;
+}
+.myfont{
+	display: inline-block;
+	font-family: "微软雅黑";
+	font-size: 20px;
+	font-weight:bold;
+	margin-left: 75px;
+	
+}
+.myfont,img{
+	vertical-align: middle;
+}
+.person{
+	height:150px;
+	width:300px;
+
+	padding-top: 13px;
+}
+
+.pic{
+	height:140px;
+	width:90px;
+	display: inline-block;
+
+	margin-top: 0px;
+
+}
+.nametitle{
+	position: absolute;
+	left:33%;
+	top:15%;
+	font-family: "微软雅黑";
+	font-size: 30px;
+}
+.name{
+	position: absolute;
+	left:33%;
+	top:22%;
+	font-family: "微软雅黑";
+	font-size: 28px;	
+	font-weight: bold;
+}
+.sub{
+	height:30px;
+	width:350px;
+	margin-top: 12px;
+
+	padding-top: 13px;
+	font-family: "微软雅黑";
+	font-size: 24px;
+	padding-left: 55px;
+	display: inline-block;
+	font-weight: 800;
+}
+.phone{
+	height:30px;
+	width:90px;
+	margin-top: 12px;
+	padding-top: 13px;
+	font-family: "微软雅黑";
+	font-size: 24px;
+	padding-left: 55px;
+	display: inline-block;
+	font-weight: 800;
+
+
+}
+.number{
+	display: inline-block;
+	height:30px;
+	width:100px;
+	margin-top: 12px;
+	padding-top: 13px;
+	font-family: "微软雅黑";
+	font-size: 24px;
+	padding-left: 0px;
+	display: inline-block;
+	font-weight: 800;
+	
+}
+
+.mytask{
+	width:320px;
+	height:130px;
+	margin-top: 22px;
+	margin-left: 16px;
+	padding-top: 40px;
+	border: 1px dashed #AAAAAA;
+}
+
+.mytask p{
+   width:250px;
+   margin-left: 40px;
+   margin-top: 10px;
+    text-align: center;
+    font-family: "微软雅黑";
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom:0px;
+    padding: 0px;
+}

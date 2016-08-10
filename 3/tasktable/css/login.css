@@ -1,0 +1,93 @@
+body{
+	background:url(../img/loginin.png);
+	background-size: cover;	
+}
+
+.context1{
+
+	width:300px;
+	height:200px;
+    position:absolute;
+    left:50%;
+    top:40%;
+    margin-left:-150px;
+}
+.InputBox1{
+	border-radius: 10px;
+	width:200px;
+	height:30px;
+	background: #edd77e;
+	border: 0px;
+	outline:none;
+	font-family: "微软雅黑";
+	font-size: 20px;
+	background-color:transparent;
+	
+}
+.InputBox2{
+	
+	width:200px;
+	height:30px;
+	border: 0px;
+	outline:none;
+	font-family: "微软雅黑";
+	font-size: 20px;
+	background-color:transparent;
+}
+input,img{
+	vertical-align: middle;
+}
+
+.denglu{
+
+	width:270px;
+	height:35px;
+	border:1px solid #aaaaaa ;
+	outline:none;
+	box-shadow: none;
+	font-family: "微软雅黑";
+	font-size: 20px;
+	margin-left: 15px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background: #fab221;
+}
+.zhuce{
+
+	width:270px;
+	height:35px;
+	border:1px solid #aaaaaa ;
+	outline:none;
+	box-shadow: none;
+	font-family: "微软雅黑";
+	font-size: 20px;
+	margin-left: 15px;
+	background: #edd77e;
+}
+.context2{
+
+	width:300px;
+	height:100px;
+    position:absolute;
+    left:50%;
+    bottom:8%;
+    margin-left:-150px;
+    
+}
+.qq{
+	width:30px;
+	height:30px;
+	background:url(../img/qqlogo.png)no-repeat;
+	background-size: cover;
+	display: inline-block;
+	margin-left: 20%;
+	margin-right:34%;
+	margin-top:18%;
+}
+.weixin{
+	width:30px;
+	height:24px;
+	background:url(../img/weixinlogo.png)no-repeat;
+	background-size: cover;
+	display: inline-block;
+}

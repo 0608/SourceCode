@@ -1,0 +1,21 @@
+
+body{
+	background: url(../img/main_bg.png) no-repeat;
+	background-size: cover;
+}
+
+.StartBtn{
+	position:absolute;
+	left:13%;
+	bottom:10%;
+	width:100px;
+	height:40px;
+	border-radius: 8px;
+	border:1px solid #aaaaaa ;
+	outline:none;
+	box-shadow: none;
+	background: #f0d671;
+	font-family: "微软雅黑";
+	font-size: 20px;
+}
+
